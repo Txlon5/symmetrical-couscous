@@ -19,6 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -27,29 +28,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="symmetrical-couscous" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="symmetrical-couscous" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +54,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +65,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596842815966</updated>
-      <workItem from="1596842817166" duration="2280000" />
+      <workItem from="1596842817166" duration="5173000" />
+      <workItem from="1596884172686" duration="1725000" />
+      <workItem from="1597149994986" duration="1746000" />
     </task>
     <servers />
   </component>
@@ -95,33 +75,68 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1596843286668">
+    <state x="447" y="70" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597152341211">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596843286668" />
-    <state width="723" height="210" key="GridCell.Tab.0.bottom" timestamp="1596845277219">
+    <state x="447" y="70" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1597152341211" />
+    <state x="150" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596847038661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596845277219" />
-    <state width="723" height="210" key="GridCell.Tab.0.center" timestamp="1596845277219">
+    <state x="150" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596847038661" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1597152339690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596845277219" />
-    <state width="723" height="210" key="GridCell.Tab.0.left" timestamp="1596845277219">
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597152339690" />
+    <state width="723" height="214" key="GridCell.Tab.0.bottom" timestamp="1597152323956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596845277219" />
-    <state width="723" height="210" key="GridCell.Tab.0.right" timestamp="1596845277219">
+    <state width="723" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597152323956" />
+    <state width="723" height="214" key="GridCell.Tab.0.center" timestamp="1597152323955">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596845277219" />
-    <state x="126" y="75" key="SettingsEditor" timestamp="1596845329603">
+    <state width="723" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597152323955" />
+    <state width="723" height="214" key="GridCell.Tab.0.left" timestamp="1597152323955">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="126" y="75" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596845329603" />
+    <state width="723" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597152323955" />
+    <state width="723" height="214" key="GridCell.Tab.0.right" timestamp="1597152323955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597152323955" />
+    <state width="723" height="261" key="GridCell.Tab.1.bottom" timestamp="1596885912269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596885912269" />
+    <state width="723" height="261" key="GridCell.Tab.1.center" timestamp="1596885912269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596885912269" />
+    <state width="723" height="261" key="GridCell.Tab.1.left" timestamp="1596885912269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596885912269" />
+    <state width="723" height="261" key="GridCell.Tab.1.right" timestamp="1596885912269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596885912269" />
+    <state x="126" y="75" key="SettingsEditor" timestamp="1596846464428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="126" y="75" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596846464428" />
+    <state x="203" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596885296980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="203" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1596885296980" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/symmetrical_couscous$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1596846552275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/share/kivy-examples/3Drendering" />
+    <SUITE FILE_PATH="coverage/symmetrical_couscous$garden.coverage" NAME="garden Coverage Results" MODIFIED="1596846473573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
     <SUITE FILE_PATH="coverage/symmetrical_couscous$Test.coverage" NAME="Test Coverage Results" MODIFIED="1596844616964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/symmetrical_couscous$main.coverage" NAME="main Coverage Results" MODIFIED="1596845277210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/symmetrical_couscous$objloader.coverage" NAME="objloader Coverage Results" MODIFIED="1596846642551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/share/kivy-examples/3Drendering" />
+    <SUITE FILE_PATH="coverage/symmetrical_couscous$main.coverage" NAME="main Coverage Results" MODIFIED="1596846662624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/share/kivy-examples/demo/multistroke" />
+    <SUITE FILE_PATH="coverage/symmetrical_couscous$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1597152323947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/symmetrical_couscous$rst2xml.coverage" NAME="rst2xml Coverage Results" MODIFIED="1596846479902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
+    <SUITE FILE_PATH="coverage/symmetrical_couscous$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1596846545178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/share/kivy-examples/android/compass" />
+    <SUITE FILE_PATH="coverage/symmetrical_couscous$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1596846708057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/share/kivy-examples/demo/kivycatalog" />
   </component>
 </project>
